@@ -1,12 +1,9 @@
-# web-shell-via-file-upload-in-hocms
+# CVE-2021-45865
+
+# Web-shell-via-file-upload-in-hocms
 Web shell via File upload functionality in Home owners collection management system
 
-
-I found a vulnerability in a PHP application. I am adding the details below, kindly check.
-
 Description: Web shell via file upload functionality in Home Owners Collection Management System from Sourcecodester website.
-
-[Additional Information] NA
 
 [Vulnerability Type] Web shell via file upload functionality.
 
