@@ -26,5 +26,4 @@ The web shell gets executed and attacker can run arbitrary os commands on the se
 [Discoverer] M Lohith
 
 
-Thanks & Regards,
-M Lohith
+
